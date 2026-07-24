@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Develop water shoulder trial generation point."] {
+                true
+            }
