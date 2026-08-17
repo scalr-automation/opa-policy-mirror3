@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Person amount box occur human whom pressure instead."] {
+                true
+            }
