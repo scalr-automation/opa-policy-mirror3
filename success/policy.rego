@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Contain recently draw artist close choose them."] {
+                true
+            }
