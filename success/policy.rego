@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Campaign statement doctor data social management remain."] {
+                true
+            }
