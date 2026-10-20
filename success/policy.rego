@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Quickly sort black organization natural across bit."] {
+                true
+            }
