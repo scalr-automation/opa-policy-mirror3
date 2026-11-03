@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Model loss have should fund behind usually person."] {
+                true
+            }
